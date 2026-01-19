@@ -41,7 +41,7 @@ The project delivers **data-driven insights** through structured SQL queries and
    └── SQL query result screenshots
 
 📄 project_edTech_query.sql
-📄 power_bi_project_edTech.pbix
+📄 Ed_Tech_Powerbi_Project.pbix
 📄 Project-1 (SQL+PowerBI).docx
 📄 README.md
 ```
@@ -66,10 +66,10 @@ The project delivers **data-driven insights** through structured SQL queries and
 * 📌 Interactive Slicers: Institution, platform, year, student group
 
 📁 **Dashboard File:**
-`power_bi_project_edTech.pbix`
+`Ed_Tech_Powerbi_Project.pbix`
 
 📁 **Dashboard Images:**
-Available in `PowerBi_images/`
+Available in `PowerBi_Ed_Tech_images/`
 
 ---
 
@@ -84,29 +84,34 @@ Available in `PowerBi_images/`
 `project_edTech_query.sql`
 
 📁 **SQL Output Screenshots:**
-Available in `Sql_outputs/`
+Available in `SQL_Images/`
 
 ---
 📌 **Complete SQL Query Script:** 
-👉 **[Advanced_SQL_Project.sql](project_edTech_query.sql)**
+👉 **[Advanced_SQL_Project.sql](Project_Ed_Tech_Query.sql)**
 ### 📊 Query Output Snapshots
 
 **📊 Query Output Snapshots**
 
 Query 1 –List all colleges that adopted AI in 2024
-# Query 1 - Output Screenshot ![Query Output - 1](/SQL_Images/output_1.png)
+# Query 1 - Output Screenshot 
+![Query Output - 1](/SQL_Images/Output_1.png)
 
 Query  2.	Find the number of students in each department.
-# Query 2 - Output Screenshot ![Query Output - 2](/SQL_Images/output_2.png)
+# Query 2 - Output Screenshot 
+![Query Output - 2](/SQL_Images/Output_2.png)
 
 Query 3.	Show the average GPA before and after AI adoption for each college.
-# Query 3 - Output Screenshot ![Query Output - 3](/SQL_Images/output_3.png)
+# Query 3 - Output Screenshot 
+![Query Output - 3](/SQL_Images/Output_3.png)
 
 Query 4.	Identify the top 10 students with the highest “hours_spent” on EdTech platforms
-# Query 4 - Output Screenshot ![Query Output - 4](/SQL_Images/output_4.png)
+# Query 4 - Output Screenshot 
+![Query Output - 4](/SQL_Images/Output_4.png)
 
 Query – 5.Show the correlation pattern: students who accepted more AI recommendations vs. change in GPA.
-# Query 5 - Output Screenshot ![Query Output - 5](/SQL_Images/output_5.png)
+# Query 5 - Output Screenshot 
+![Query Output - 5](/SQL_Images/Output_5.png)
 
 
 
