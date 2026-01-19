@@ -121,15 +121,15 @@ Query – 5.Show the correlation pattern: students who accepted more AI recommen
 
 Dashboard 1 – EdTech_Overview
 # Dashboard 1 -Screenshot
-![EdTech_Overview](/PowerBi_Ed_Tech_Images/EdTech_Usage_Overview.png)
+![EdTech_Overview](/Powerbi_Ed_Tech_Images/EdTech_Usage_Overview.png)
 
 Dashboard 2 – Academic_Impact
 # Dashboard 2 -Screenshot
-![Academic_Impact](/PowerBi_Ed_Tech_Images/Academic_Impact_Output.png)
+![Academic_Impact](/Powerbi_Ed_Tech_Images/Academic_Impact_Output.png)
 
 Dashboard 3 – Comparative_Analysis
 # Dashboard 3 -Screenshot
-![Comparative_Analysis](/PowerBi_Ed_Tech_Images/Comparative_Analysis_Output.png)
+![Comparative_Analysis](/Powerbi_Ed_Tech_Images/Comparative_Analysis_Output.png)
 
 
 
